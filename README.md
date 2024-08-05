@@ -1,2 +1,1 @@
-# lab333-repo
-my project repo
+this file contains my project details
